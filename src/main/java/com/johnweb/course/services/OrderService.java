@@ -3,7 +3,6 @@ package com.johnweb.course.services;
 import com.johnweb.course.entities.Order;
 import com.johnweb.course.entities.User;
 import com.johnweb.course.repositories.OrderRepository;
-import com.johnweb.course.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
